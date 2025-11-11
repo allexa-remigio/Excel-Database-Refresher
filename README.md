@@ -19,9 +19,7 @@ Since each database is formatted differently for internal reasons, the MEDBR onl
 - Anticipated Next Visit Date
 - Additional Notes
 
-After the information is extracted, it is compiled into a mastersheet of all patients seen by one of our medical providers.
-
-To keep up with all the changes in the separete patient databases, this script is run daily once all the previous appointment information has been udpated via Power Automate. 
+After the information is extracted, it is compiled into a mastersheet of all patients seen by one of our medical providers. To keep up with all the changes in the separate patient databases, this script is run daily once all the previous appointment information has been udpated via Power Automate. 
 
 ## Location of File
 The MEDBR file works in the same folder as the worksheets containing the patient databases. 
