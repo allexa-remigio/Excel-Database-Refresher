@@ -2,7 +2,7 @@
 # Authors
 Allexa Remigio
 # Status
-Completed [x]
+Completed ✅
 
 ## Description
 Given multiple, daily-updated Excel Worksheets containing various patient databases on Microsoft Excel (online version), I was tasked with creating an auto-updated master patient dashboard to compile all the important patient information required for the administrative team to schedule patients. In order to help the team further, the worksheet that houses the master patient worksheet is also able to be modified by the staff, so this script also features a way to keep track of all the edits that the administrative team makes for the external database management.
