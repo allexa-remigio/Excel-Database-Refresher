@@ -1,7 +1,7 @@
 # Master Excel Dashboard Refresher (MEDBR)
-# Authors
+### Authors
 Allexa Remigio
-# Status
+### Status
 Completed ✅
 
 ## Description
