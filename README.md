@@ -28,6 +28,7 @@ The MEDBR file works in the same folder as the worksheets containing the patient
 
 ## Usage/Options
 Upload the script to Excel Automate. Automate > Script > Run Script
+
 `run main function`
 
 Optional: Create a button to run it straight from the worksheet.
