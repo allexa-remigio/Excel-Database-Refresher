@@ -33,4 +33,4 @@ Worksheet | Definition
 Changes | the worksheet that keeps track of all the edits the administrative staff creates
 Master | the worksheet that houses the compiled patient information
 
-## *Please note that this is 4th iteration of the fully automated MEDBR*
+#### *Please note that this is 4th iteration of the fully automated MEDBR*
