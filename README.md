@@ -31,7 +31,7 @@ Upload the script to Excel Automate. Automate > Script > Run Script
 
 `run main function`
 
-Optional: Create a button to run it straight from the worksheet.
+*Optional: Create a button to run it straight from the worksheet.*
 
 ## Output:
 
